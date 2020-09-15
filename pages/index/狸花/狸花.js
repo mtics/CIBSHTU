@@ -1,7 +1,7 @@
 Page({
 data: { 
  catlist: [
-
+{ name:"虎子哥"},{ name:"小杜"},{ name:"十九"},
     ],
     screenWidth: 0,
     screenHeight: 0,

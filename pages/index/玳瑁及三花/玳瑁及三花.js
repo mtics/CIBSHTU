@@ -1,7 +1,7 @@
 Page({
 data: { 
  catlist: [
-
+{ name:"公主"},{ name:"花花"},{ name:"斑斑"},
     ],
     screenWidth: 0,
     screenHeight: 0,

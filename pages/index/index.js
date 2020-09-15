@@ -1,10 +1,15 @@
 Page({
 data: { 
  fostered_catlist: [
-{ name:"杰希"},
-{ name:"土谦"},
+{ name:"饭团"},
+{ name:"瓜子"},
+{ name:"雪糕"},
 ],
  unknown_catlist: [
+{ name:"米粒"},
+{ name:"黑豆"},
+{ name:"芝麻糊"},
+{ name:"小胖"},
 ],
  dead_catlist: [
 ],

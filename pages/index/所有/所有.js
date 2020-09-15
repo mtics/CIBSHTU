@@ -1,7 +1,7 @@
 Page({
 data: { 
  catlist: [
-{ name:"小黄鸭"},{ name:"英杰"},{ name:"一帆"},{ name:"薏米"},
+{ name:"虎子哥"},{ name:"小杜"},{ name:"十九"},{ name:"肉圆"},{ name:"二三"},{ name:"公主"},{ name:"花花"},{ name:"斑斑"},{ name:"大白"},
     ],
     screenWidth: 0,
     screenHeight: 0,
