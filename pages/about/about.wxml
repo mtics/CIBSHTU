@@ -51,6 +51,16 @@
 二次开发：lizhw
 </view>
 
+<view class="staff">
+资料整理：QIN/上科神秘小喵咪群友
+</view>
+
+<view class="staff">
+供图：崔佳迪/上科神秘小喵咪群友
+</view>
+
+
+
 <view  class = "itemname1">
   <view bindtap="naviToMini" style='flex-shrink:0; box-sizing:border-box; width:3rem; margin-right:1rem;'>
     <image style="width:3rem;height:3rem;" src="/pages/images/circle.png" ></image>
