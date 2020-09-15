@@ -1,6 +1,6 @@
 <!--index.wxml-->
 
-<view class= "title">北京大学学生流浪猫关爱协会</view>
+<view class= "title">中科路1号猫咪图鉴</view>
 <navigator url="/pages/about/web/web">
 <view style="display:flex; justify-content:center; align-items:center;">
   <image mode="widthFix" src="/pages/images/huihui.jpg" style= "width: 93%;">
@@ -10,16 +10,45 @@
 
 <text> \n </text>
 
+<view class="head1">图鉴起源</view>
+<view class="body">
+起初，上科大师生自发组织起来为猫咪绝育。2020年8月8日，第一只猫（花花）TNR（Trap Neuter Release）完成。
+2020年9月11日，因上科大小白（档案名奶糖）疑似中毒送医，为给小白治病发起募捐而引起校内师生广泛关注校内流浪猫的生存状态。
+</view>
+<view class="body">
+为了更好地管理上科大流浪猫群体，2020年4月27日开始尝试仿照北大猫协建立猫咪档案，发布猫咪图鉴小程序供校内学生了解，熟悉，关照和日常吸撸，目前已经建立了【上科神秘小喵咪】QQ群和【上科大猫咪管理群】微信群供校内师生讨论交流。
+</view>
+<view class="body">
+猫咪档案信息需要持续完善和更新，向上科大全体征集已/未登记的流浪猫详细信息(毛色、出没地点、性别、状态、是否绝育、出生年月、外貌描述、性格、第一次被目击时间/地点、关系、路线及送养时间)，向全校擅长/爱好摄影者征集校园流浪猫高清写真，猫咪信息和照片请提供给【上科神秘小喵咪】QQ群内（见下方群二维码）。
+</view>
+<view class="body">
+上科大小白从9月11日起开始住院治疗和观察，群内已经发起第一次募捐，募捐已暂停，收集款项及捐款详情，小白的救治过程都会在【上科大猫咪管理群】微信群（见下方群二维码）发布，如果有后续检查和治疗，我们会发起第二次众筹，非常感谢大家的爱心！
+</view>
+<view class="body">
+目前已有学生在向校方咨询建立社团等事宜，社团成立，此小程序自动转入社团管理，如有更多关心/关爱流浪猫生活的同学们，欢迎加入我们，一起为改善流浪动物的生存现状贡献更多的力量！
+</view>
+
+<view style="display:flex; justify-content:center; align-items:center;">
+  <image mode="widthFix" class="cat_image" src="https://shtu.oss-cn-shanghai.aliyuncs.com/pics/%E4%B8%8A%E7%A7%91%E7%A5%9E%E7%A7%98%E5%B0%8F%E5%96%B5%E5%92%AA%E7%BE%A4%E8%81%8A%E4%BA%8C%E7%BB%B4%E7%A0%81.png" style= "width: 90%;">
+  </image>
+</view>
+
+<view class="head1">代码介绍</view>
 <!-- 最好能保留这一行 -->
-<view class="body">此小程序所有代码开源，可在 GitHub 上搜索「北大猫协」，配有教学视频，简单易用。 </view>
+<view class="body">此小程序基于「北大猫协」的代码进行二次开发。 </view>
+<view class="body">所有代码开源，在Github上搜索「北大猫协」，配有教学视频，简单易用。 </view>
 
 
 <text> \n </text>
 
-<view class="staff">2020-08-16</view>
+<view class="staff">2020-09-15</view>
 
 <view class="staff">
 小程序开发：circle
+</view>
+
+<view class="staff">
+二次开发：lizhw
 </view>
 
 <view  class = "itemname1">
