@@ -81,6 +81,8 @@ for i in range(rowNum):
         continue
 
     for j in labels:
+        print(data_list[i][j[0]])
+        print("----"+str(i))
         json_line[j[1]] = j[2](data_list[i][j[0]])
 
     data_json.append(json_line)
@@ -168,13 +170,13 @@ suoyou = []
 #  分类
 for i in range(rowNum):
     if data_list[i][3] != '':
-        if data_list[i][9] == '离世':
+        if data_list[i][9].strip() == '离世':
             dead.append((data_list[i][2], data_list[i][21]))
-        if data_list[i][9] == '送养':
+        if data_list[i][9].strip() == '送养':
             fostered.append((data_list[i][2], data_list[i][20]))
-        if (data_list[i][9] == '不明' or data_list[i][9] == '许久未见' or data_list[i][9] == '失踪'):
+        if (data_list[i][9].strip() == '不明' or data_list[i][9].strip() == '许久未见' or data_list[i][9].strip() == '失踪'):
             unknown.append(data_list[i][2])
-        if (data_list[i][9] == '健康' or data_list[i][9] == '口炎'):
+        if (data_list[i][9].strip() == '健康' or data_list[i][9].strip() == '送医'):
             if data_list[i][6] == 1:
                 lihua.append(data_list[i][2])
             if data_list[i][6] == 2:

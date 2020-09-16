@@ -1,7 +1,7 @@
 Page({
 data: { 
  catlist: [
-{ name:"大白"},
+{ name:"奶糖"},{ name:"大白"},
     ],
     screenWidth: 0,
     screenHeight: 0,

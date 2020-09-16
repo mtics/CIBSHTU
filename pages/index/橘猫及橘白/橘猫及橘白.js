@@ -1,7 +1,7 @@
 Page({
 data: { 
  catlist: [
-{ name:"肉圆"},{ name:"二三"},
+{ name:"小七"},{ name:"肉圆"},{ name:"二三"},
     ],
     screenWidth: 0,
     screenHeight: 0,
