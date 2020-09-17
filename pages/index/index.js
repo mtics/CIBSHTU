@@ -12,6 +12,9 @@ data: {
 { name:"小胖"},
 ],
  dead_catlist: [
+{ name:"奶糖"},
+{ name:"嬛嬛"},
+{ name:"小杜"},
 ],
     screenWidth: 0,
     screenHeight: 0,
