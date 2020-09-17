@@ -1,7 +1,7 @@
 Page({
 data: { 
  catlist: [
-{ name:"虎子哥"},{ name:"小杜"},{ name:"狸花猫幼崽1"},{ name:"狸花猫幼崽2"},{ name:"狸花猫幼崽3"},{ name:"十八"},{ name:"十九"},{ name:"小七"},{ name:"肉圆"},{ name:"二三"},{ name:"公主"},{ name:"花花"},{ name:"斑斑"},{ name:"奶糖"},{ name:"大白"},
+{ name:"虎子哥"},{ name:"狸花猫幼崽1"},{ name:"狸花猫幼崽2"},{ name:"狸花猫幼崽3"},{ name:"十八"},{ name:"十九"},{ name:"小七"},{ name:"肉圆"},{ name:"二三"},{ name:"公主"},{ name:"花花"},{ name:"斑斑"},{ name:"大白"},
     ],
     screenWidth: 0,
     screenHeight: 0,
